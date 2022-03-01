@@ -1,2 +1,2 @@
-# cisc3115projects
+# phsyics-projects
 intro to modern programming in java assignments
